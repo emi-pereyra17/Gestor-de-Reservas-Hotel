@@ -1,0 +1,15 @@
+# Archivos de compilación
+/target/
+*.class
+
+# Archivos de configuración de IDEs
+.idea/
+*.iml
+
+# Archivos generados por Maven
+/maven-status/
+/maven-archiver/
+/generated-sources/
+
+# Credenciales de la base de datos (si las tienes)
+*.properties
